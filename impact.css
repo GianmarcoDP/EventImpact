@@ -9,16 +9,15 @@ font-family: 'Roboto', sans-serif;
 
 h1, h2{
 color: #f2f2f2;
-clear:left;
 }
 
 p{
 color: #f2f2f2;
 font-size: 20px;
-clear:left;
 }
+
 img {
-width:20%;
-margin:5%;
+width:30%;
+margin-left:5%;
 float:left;
 }
