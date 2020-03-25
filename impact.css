@@ -18,5 +18,7 @@ font-size: 20px;
 clear:left;
 }
 img {
- width:1000px;
+width:20%;
+margin:5%;
+float:left;
 }
